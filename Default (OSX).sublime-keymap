@@ -1,0 +1,9 @@
+[
+	{"keys": ["Command+Option+c"], "command": "toggle_comment", "args": {"block": false}},
+	{"keys": ["Command+Shift+c"], "command": "toggle_comment", "args": {"block": true}},
+	{"keys": ["Command+\\"], "command": "reindent"},
+	{"keys": ["super+shift+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{"keys": ["super+option+f"], "command": "toggle_full_screen" },
+    {"keys": ["super+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    {"keys": ["super+right"], "command": "move_to", "args": {"to": "eol", "extend": false} }
+]

@@ -1,0 +1,11 @@
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+        "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+        "FIXME": "FIXME[\\s]*?:[\\s]*(?P<fixme>.*)$",
+        // "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$",
+        "CHANGED": "CHANGED[\\s]*?:[\\s]*(?P<changed>.*)$"
+    },
+    "render_include_folder": false,
+    "render_folder_depth": 4
+}

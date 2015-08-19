@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"AutoFileName",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"InnoSetup",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"OmniSharp",
+		"Package Control",
+		"ReactJS",
+		"Sass",
+		"SFTP",
+		"Theme - Soda",
+		"TodoReview",
+		"Toggle Words",
+		"Unity3D"
+	]
+}

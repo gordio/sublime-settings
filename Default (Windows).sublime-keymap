@@ -1,0 +1,6 @@
+[
+	{"keys": ["f2"], "command": "save"},
+	{"keys": ["Alt+c"], "command": "toggle_comment", "args": {"block": false}},
+	{"keys": ["Alt+shift+c"], "command": "toggle_comment", "args": {"block": true}},
+	{"keys": ["Alt+\\"], "command": "reindent"}
+]

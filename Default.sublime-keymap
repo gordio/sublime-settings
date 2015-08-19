@@ -1,0 +1,3 @@
+[
+    {"command": "omni_sharp_new_file", "keys": ["super+alt+s"], "args":{"tmpltype": "script", "paths": []}}
+]

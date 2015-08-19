@@ -1,0 +1,7 @@
+*sftp_servers/
+*cache/
+*.last-run
+*.merged-ca-bundle
+*.system-ca-bundle
+*.user-ca-bundle
+*Color\ Highlighter
