@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,12 +7,12 @@
 	[
 		"AngularJS",
 		"ApacheConf.tmLanguage",
-		"ApplySyntax",
 		"AutoFileName",
+		"EditorConfig",
 		"Emmet",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"InnoSetup",
+		"Inno Setup",
 		"JsFormat",
 		"LESS",
 		"MarkdownEditing",
@@ -19,7 +20,10 @@
 		"Package Control",
 		"ReactJS",
 		"Sass",
-		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"Theme - Soda",
 		"TodoReview",
 		"Toggle Words",

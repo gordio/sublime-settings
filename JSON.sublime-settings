@@ -10,8 +10,5 @@
 	],
 	"extensions":
 	[
-		".jshintrc",
-		".jscsrc",
-		".csslintrc"
 	]
 }
