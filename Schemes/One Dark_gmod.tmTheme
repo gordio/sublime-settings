@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>IceTimux (http://icetimux.com)</string>
+	<string>IceTimux (http:&#x2f;&#x2f;icetimux.com)</string>
 	<key>name</key>
 	<string>One Dark</string>
 	<key>semanticClass</key>
@@ -29,7 +29,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#282C34</string>
+				<string>#34363a</string>
 				<key>caret</key>
 				<string>#528BFF</string>
 				<key>foreground</key>
@@ -294,7 +294,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string></string>
 				<key>foreground</key>
 				<string>#61AFEF</string>
 			</dict>
@@ -661,37 +661,7 @@
 				<string>#D19A66</string>
 			</dict>
 		</dict>
-	<dict>
-            <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DDB700</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
-            <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFFFFF</string>
-            </dict>
-        </dict></array>
+	</array>
 	<key>uuid</key>
 	<string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
 	<key>comment</key>

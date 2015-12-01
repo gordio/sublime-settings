@@ -1,14 +1,13 @@
 {
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels": false,
-	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/One Dark_gmod (SL) (SublimePythonIDE).tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": false,
-	"font_face": "Consolas",
-	"font_size": 11,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -43,7 +42,8 @@
 	"show_tab_close_buttons": false,
 	"soda_folder_icons": false,
 	"tab_size": 4,
-	"theme": "Soda Dark 3.sublime-theme",
+	"piatto_folder_icons": false,
+	"theme": "Piatto Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
