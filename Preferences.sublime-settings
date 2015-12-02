@@ -1,13 +1,13 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/One Dark_gmod (SL) (SublimePythonIDE).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/One Dark_gmod (SL).tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": false,
-	"font_size": 13,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -32,6 +32,7 @@
 	],
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
+	"piatto_folder_icons": false,
 	"remember_full_screen": true,
 	"rulers":
 	[
@@ -42,9 +43,9 @@
 	"show_tab_close_buttons": false,
 	"soda_folder_icons": false,
 	"tab_size": 4,
-	"piatto_folder_icons": false,
 	"theme": "Piatto Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true
+	"use_tab_stops": true,
+	"word_wrap": "true"
 }
