@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/One Dark_gmod (SL).tmTheme",
+	"color_scheme": "Packages/User/Schemes/One Dark_gmod.tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_minimap_border": false,

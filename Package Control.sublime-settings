@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"AngularJS",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"EditorConfig",
@@ -18,18 +17,9 @@
 		"JsFormat",
 		"LESS",
 		"MarkdownEditing",
-		"Material Theme",
-		"OmniSharp",
 		"Package Control",
-		"ReactJS",
 		"Sass",
-		"SublimeLinter",
-		"SublimeLinter-contrib-jslint",
-		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
-		"SublimePythonIDE",
 		"Theme - Piatto",
-		"Theme - Soda",
 		"TodoReview",
 		"Toggle Words",
 		"Unity3D"
