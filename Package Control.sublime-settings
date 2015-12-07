@@ -11,6 +11,7 @@
 		"Emmet",
 		"Git Conflict Resolver",
 		"GitGutter",
+		"GitSyntaxes",
 		"HTML-CSS-JS Prettify",
 		"Inno Setup",
 		"JavaScriptNext - ES6 Syntax",
@@ -19,9 +20,15 @@
 		"MarkdownEditing",
 		"Package Control",
 		"Sass",
+		"Terminal",
 		"Theme - Piatto",
+		"Theme - Soda",
 		"TodoReview",
 		"Toggle Words",
 		"Unity3D"
+	],
+	"repositories":
+	[
+		"https://github.com/gordio/piano"
 	]
 }
