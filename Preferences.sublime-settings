@@ -7,11 +7,11 @@
 	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": true,
-	"font_size": 11,
-	"hide_files_icons": true,
-	"hide_folder_icons": true,
+	"font_face": "Droid Sans Mono",
+	"font_size": 9,
+	"hide_files_icons": false,
+	"hide_folder_icons": false,
 	"hide_folder_loading_icons": false,
-	"sidebar_remove_offset": true,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -44,6 +44,7 @@
 	],
 	"show_encoding": true,
 	"show_tab_close_buttons": false,
+	"sidebar_remove_offset": true,
 	"tab_size": 4,
 	"theme": "MiniFlat Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,

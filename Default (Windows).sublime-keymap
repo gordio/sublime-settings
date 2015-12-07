@@ -7,5 +7,8 @@
 	{ "keys": ["ctrl+alt+o"], "command": "keep", "args": { "keep": "ours" } },
 	{ "keys": ["ctrl+alt+t"], "command": "keep", "args": { "keep": "theirs" } },
 	{ "keys": ["ctrl+alt+a"], "command": "keep", "args": { "keep": "ancestor" } },
-	{ "keys": ["ctrl+alt+c"], "command": "list_conflict_files" }
+	{ "keys": ["ctrl+alt+c"], "command": "list_conflict_files" },
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	{ "keys": ["ctrl+t"], "command": "open_terminal" },
+	{ "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" }
 ]
