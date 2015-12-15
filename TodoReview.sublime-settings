@@ -3,9 +3,19 @@
         "FIXME": "FIXME[\\s]*?:[\\s]*(?P<fixme>.*)$",
         // "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$",
         "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
-        "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+        // "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
         "CHANGED": "CHANGED[\\s]*?:[\\s]*(?P<changed>.*)$"
     },
+    "patterns_weight": {
+    },
+    "exclude_folders": [
+    	"*.git*",
+    	"node_modules"
+    ],
+    "exclude_files": [
+    	"*.sublime-workspace",
+    	"*.sublime-project"
+    ],
     "render_include_folder": false,
     "render_folder_depth": 4
 }

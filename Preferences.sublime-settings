@@ -1,17 +1,24 @@
 {
 	"always_show_minimap_viewport": true,
+    "atomic_save": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - MiniFlat/MiniFlat Dark.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/MiniFlat Dark (SL).tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_minimap_border": false,
-	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": true,
+    "fade_fold_buttons": false,
 	"font_face": "Droid Sans Mono",
-	"font_size": 8,
+    "indent_subsequent_lines": true,
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 10,
 	"hide_files_icons": false,
 	"hide_folder_icons": false,
 	"hide_folder_loading_icons": false,
+	"highlight_modified_tabs": false,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -37,6 +44,7 @@
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
 	"remember_full_screen": true,
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
 	"rulers":
 	[
 		80,
@@ -44,8 +52,8 @@
 	],
 	"show_encoding": true,
 	"show_tab_close_buttons": false,
-	"sidebar_remove_offset": true,
 	"sidebar_no_hover": false,
+	"sidebar_remove_offset": true,
 	"tab_size": 4,
 	"theme": "MiniFlat Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
